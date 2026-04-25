@@ -1,0 +1,9 @@
+
+streamlit==1.52.2
+tensorflow==2.13.0
+imutils==0.5.4
+numpy==1.24.3
+opencv-python==4.11.0.86
+matplotlib==3.10.8
+scipy==1.15.3
+scikit-learn==1.7.2
